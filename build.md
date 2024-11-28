@@ -1,3 +1,4 @@
+Instagram: 359.0.0.59.89  
 Lightroom: 10.0.2  
 Photos: 7.9.0.700107295  
 Reddit: 2024.17.0  

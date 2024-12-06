@@ -1,5 +1,5 @@
 Lightroom: 10.0.2  
-Photos: 7.10.0.702764534  
+Photos: 7.10.0.703144258  
 Reddit: 2024.17.0  
 Twitter: 10.48.0-release.0  
 YouTube: 19.46.42  
@@ -10,4 +10,4 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.2.1.rvp    
+Patches: ReVanced/patches-5.2.2.rvp    

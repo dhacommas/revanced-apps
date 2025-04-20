@@ -13,15 +13,28 @@ apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 arch = "arm64-v8a"
 
 [Twitter]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+build-mode = "apk"
+dpi = "120-640dpi"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 arch = "arm64-v8a"
 included-patches = "'Open links with app chooser'"
 excluded-patches = "'Change link sharing domain'"
 
-[Photos]
+[GooglePhotos]
+build-mode = "apk"
+arch = "both"
+version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
-arch = "arm64-v8a"
+uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
 [Lightroom]
 apkmirror-dlurl = "https://apkmirror.com/apk/adobe/lightroom/"
 uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
+
+[Spotify]
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+version = "9.0.36.683"
+
+[Twitter]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
+

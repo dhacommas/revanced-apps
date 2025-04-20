@@ -34,7 +34,3 @@ uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 version = "9.0.36.683"
-
-[Twitter]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
-
